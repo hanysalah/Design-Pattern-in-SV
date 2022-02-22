@@ -8,7 +8,7 @@ module top;
 
    initial begin
       // If you uncomment the next statement, the compiler will prompt a compilation error
-      // since the class has no construction. 
+      // since the class has no constructor. 
       //   
       // SingltonObject1 = new();
 
