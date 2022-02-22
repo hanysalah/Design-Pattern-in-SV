@@ -21,10 +21,10 @@ module top;
       // Since The main objective of Singlton Design Pattern is to create a single object of it
       // and share it among all modules. SingleObject2 will point to the same object like
       // SingleObject1 after the next statement.
-      SignleObject2 = SingltonClass::getInstance();
+      SingltonObject2 = SingltonClass::getInstance();
 
       // Let's see the value of name in the second object. What do you see
-      $display("SingleObject2.name = %s",SingleObject2.name);
+      $display("SingleObject2.name = %s",SingltonObject2.name);
 
    end
 

@@ -7,11 +7,11 @@ class SingltonClass;
    protected function new ();
    endfunction // new
 
-   static function SinglonClass getInstance();
+   static function SingltonClass getInstance();
       if (SingltonClassObject == null) begin
 	 SingltonClassObject = new ();
       end
-      return SinglonClassObject;
+      return SingltonClassObject;
    endfunction // getInstance
      
 endclass
