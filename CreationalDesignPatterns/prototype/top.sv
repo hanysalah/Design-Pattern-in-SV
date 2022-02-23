@@ -39,7 +39,7 @@ module top;
       $display("OriginalObject1.x = %0d",OriginalObject1.x); 
       $display("OriginalObject2.name = %s",OriginalObject2.name);
       $display("ClonedObject1.x = %0d",ClonedObject1.x);     
-      $display("ClonedlObject2.x = %0d",ClonedObject2.x);
+      $display("ClonedObject2.name = %0s",ClonedObject2.name);
     end
 endmodule
 
