@@ -1,6 +1,6 @@
 Singlton Design Pattern
 ----------------------------------
-Singlton Design Pattern is used when we want to make sure that only a single instance will be created for that class.
+Singlton Design Pattern is used when we want to make sure that only a single instance of a certain class will be created.
 
 Applications
 ---------------------------------

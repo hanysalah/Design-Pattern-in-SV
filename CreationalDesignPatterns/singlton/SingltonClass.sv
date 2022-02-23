@@ -2,6 +2,7 @@ class SingltonClass;
 
    static SingltonClass SingltonClassObject;
 
+   // For  the sake of testing
    string name;
    
    protected function new ();
