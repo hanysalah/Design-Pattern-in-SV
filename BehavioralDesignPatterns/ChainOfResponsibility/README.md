@@ -15,3 +15,6 @@ For both local (agent) scoreboard and global (environment) scoreboard, It may re
 
 ### 2- RAL predictor.
 In a special type of RAL predictor where registers are not only updated by direct Read/Write access. Instead, it could be changed due to other inputs change. In this case, it would be a good option not to encapsulate all the handling algorithm into a single function in the predictor.
+
+
+[EDA playground](https://edaplayground.com/x/fkkX)
