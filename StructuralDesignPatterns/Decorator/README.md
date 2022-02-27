@@ -14,5 +14,6 @@ Decorator pattern is widely used in verification. However, many verification eng
 
 Stimulus splitting into three layers of classes provides a dynamic flexibility to reuse/implement a wide set of functionality in a minimal set of codelines.
 
-## EDA Playground
-[Decoration Design Pattern EDA playground](https://edaplayground.com/x/DCzQ)
+## Demo
+
+[EDA playground](https://edaplayground.com/x/DCzQ)

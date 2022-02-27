@@ -11,3 +11,7 @@ Singlton Design Pattern is used when we want to make sure that only a single ins
 
 - One of the possible usage of singlton design pattern is in automatic coverage driven verification through which the test
   will iterate in infinite loop untill the functional coverage hit a certain value
+
+## Demo
+
+[EDA Playground](https://edaplayground.com/x/s3Ax)
