@@ -1,3 +1,3 @@
 # Behavioral Design Patterns
 
-1- Chain of responsibility.
+1. Chain of responsibility.
