@@ -1,9 +1,9 @@
-Singlton Design Pattern
-----------------------------------
+# Singlton Design Pattern
+
 Singlton Design Pattern is used when we want to make sure that only a single instance of a certain class will be created.
 
-Applications
----------------------------------
+## Applications
+
 - UVM Report Server where there should be a single shared object for the UVM server to collect errors/warnings/info over all
   SV entities (class, module, interface, package, ..... etc).
 
