@@ -5,3 +5,11 @@ A structural design pattern which is used to complement the functionality of inh
 Decorator pattern aims to mix inheritance and aggregation togather to provide the inheritance flexibility in both static/dynamic fashion.
 
 The basic idea is to split the class being used into a core class and decorator classes. Decorator classes instantiates the core class in it and decorates it.
+
+Decorator pattern is widely used in verification. However, many verification engineers don't know that they already implement it in their own benches. Test plan includes a set of stimulus that verification engineer is planning to inject to the DUT. Although this test plan is written in a document ahead. The stimulus is not implemented in a single class. Instead, it is split into:
+
+- Transaction classes.
+- Sequence classes.
+- Test classes.
+
+Stimulus splitting into three layers of classes provides a dynamic flexibility to reuse/implement a wide set of functionality in a minimal set of codelines.
