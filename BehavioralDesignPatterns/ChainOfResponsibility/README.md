@@ -2,7 +2,7 @@
 
 ## Definition
 
-It is to a behavioral design pattern which enables verification engineer to split a big processing function/task into smaller ones. Instead of
+It is a behavioral design pattern which enables verification engineer to split a big processing function/task into smaller ones. Instead of
 writing a big function that is about 100+ lines which could be:
 - Hard to maintain.
 - Not reliable to change due to adding/removing features.
