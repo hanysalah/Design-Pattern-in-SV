@@ -1,4 +1,4 @@
-# Abstract Factpry
+# Abstract Factory
 
 It is to create a structure of classes (environment, agent .. etc) without any prior knowledge about its entire structure.
 
